@@ -1,4 +1,4 @@
-![RUNNER GAME](https://github.com/dfilitto/UnityRunner3DGame/blob/main/Unity%20-%20Runner%203D_sem_texto.jpg)
+![ARKANOID](https://github.com/dfilitto/UnityArkanoid/blob/master/arkanoid.jpg)
 # Unity ARKANOID
 
 O curso Construindo o jogo Arkanoid ensina como criar o famoso jogo Arkanoid utilizando umas das engines mais famosas da atualidade, a Engine Unity.
